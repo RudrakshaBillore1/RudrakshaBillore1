@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://github.com/RudrakshaBillore1"><img src="https://github-profile-trophy.vercel.app/?username=rudrakshabillore1" alt="rudrakshabillore1" />
 </a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
