@@ -1,9 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm RUDRAKSHA BILLORE</h1>
-<h3 align="center">I am Student .</h3>
+<h3 align="center"> I am web developer | Programmer | Developer | App Developer  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrakshabillore1&label=Profile%20views&color=0e75b6&style=flat" alt="rudrakshabillore1" />
 </p>
+<h1 align="center">  </h1>
+
+<h3 align="center">  
 
 <p align="left"> <a href="https://github.com/RudrakshaBillore1"><img src="https://github-profile-trophy.vercel.app/?username=rudrakshabillore1" alt="rudrakshabillore1" />
 </a> </p>
